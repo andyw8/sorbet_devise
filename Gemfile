@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "tapioca", "~> 0.11.9"
+gem "sorbet-static-and-runtime", "~> 0.5.11034"
+gem "devise", "~> 4.9"
