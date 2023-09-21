@@ -74,3 +74,5 @@ end
 gem "tapioca", "~> 0.11.9"
 gem "sorbet-static-and-runtime", "~> 0.5.11034"
 gem "devise", "~> 4.9"
+
+gem "rubocop-sorbet", "~> 0.7.3"
