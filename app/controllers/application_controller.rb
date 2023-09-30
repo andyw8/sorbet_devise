@@ -1,3 +1,3 @@
-# typed: false
+# typed: true
 class ApplicationController < ActionController::Base
 end
